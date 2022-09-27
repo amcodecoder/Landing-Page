@@ -1,1 +1,1 @@
-This landing page is for a computer store
+A landing page for online car store 
