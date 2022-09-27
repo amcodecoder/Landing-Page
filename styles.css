@@ -167,3 +167,49 @@ li{
     flex: 0 0 auto;
 }
 
+/* CTA Section Styles */
+.cta-section{
+    margin: 0;
+    padding: 80px;
+    /* width: 800px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cta-card{
+    height: 100px;
+    width: 800px;
+    flex: 0 0 auto;
+    background-color: #3882f6;
+    margin: 0;
+    padding: 25px 150px;
+    border-radius: 8px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 256px;
+}.cta-content{
+
+}
+.cta-card button{
+    flex: 0  0;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: solid #f9faf8 1px ;
+    border-radius: 4px;
+    padding: 15px 36px;
+    width: 128px;
+    flex: 0 0 auto;
+}
+.cat-content h3{
+    color: #f9faf8;
+    margin: 0;
+    padding: 0;
+}
+.cat-content p{
+    color:#b8c7d6;
+    margin: 0;
+    padding: 0;
+}
+
